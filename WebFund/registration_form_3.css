@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    color:navy;
+    text-decoration:underline;
+}
+h2{
+    text-align: left;
+    color:black;
+    font-style: inherit;
+}
+.FirName{
+    font-family: sans-serif;
+}
+.LasName{
+    font-family: sans-serif;
+}
+.YEmail{
+    font-family: sans-serif;
+}
+.TeamName{
+    font-family: sans-serif;
+}
+.Belt{
+    
+    font-family: sans-serif;
+}
+.stripe{
+    font-family: sans-serif;
+}

@@ -1,0 +1,15 @@
+// for (var num = 0; num <= 5; num++) {
+//     console.log(num);
+// }
+
+
+// for (var b = 2; b <= 10; b++) {
+//     console.log(b)
+// }
+
+
+
+
+for (var s = 4; s <= 19; s++) {
+    console.log(s)
+}

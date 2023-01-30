@@ -1,0 +1,16 @@
+//The Story: We want an app that once it measures a kid's height, can display whether the child 
+//is tall enough to ride the rollercoaster. We're tasked with building the function that will display 
+//the right message to the child.
+
+//Step 1: Review and edit your variables as needed
+//Are your variables accurate? Update them if need be.
+
+//Step 2: Create a conditional where:
+//If the rider's height is greater than 52, the console.log should say "Get on that ride, kiddo!". Otherwise, console.
+//log should say "Sorry kiddo. Maybe next year."
+
+Function Get on that ride kiddo(getting on the ride) {
+    if (childIs52Inches.theyCangetOn == true)
+    if (childIs52InchestheyCangetOn = false)
+}
+else { ifchildIs52Inches.theyCangetOn =true;  }
